@@ -2,7 +2,7 @@
 layout: default
 ---
 <p class="intro">
-  Observations on software and the people who build it—how teams think, why tools get adopted, and what organizations reveal about themselves through code.
+  Thoughts I have when I'm doing my daily ritual of staring at a blank wall like a cat.
 </p>
 
 <ul class="post-list">
