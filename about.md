@@ -2,7 +2,7 @@
 layout: default
 title: About
 ---
-<div class="page-content">
+<div class="page-content" markdown="1">
 
 I'm Dylan Drake, a software developer working in research. I spend my days building tools that help people make sense of complex problems.
 
